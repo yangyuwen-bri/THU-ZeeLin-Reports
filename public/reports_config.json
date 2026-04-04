@@ -1,5 +1,55 @@
 [
     {
+        "id": "openoctopus-a-manufacturing-and-sensor-industry-collaboration-pl",
+        "title": "OpenOctopus: A Manufacturing and Sensor Industry Collaboration Platform",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "AI Agent",
+        "abstract": "This report introduces OpenOctopus as a collaboration platform for manufacturing and the sensor value chain. It focuses on an end-to-end workflow from requirement clarification to engineering analysis, project delivery, and continuous data accumulation. It also outlines core moats, phased commercialization, and the current market window for industrial AI deployment.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/OpenOctopus Manufacturing and Sensor Industry Collaboration Platform (English).pdf"
+    },
+    {
+        "id": "openclaw-as-a-digital-employee-operating-layer-architecture-gaps",
+        "title": "OpenClaw as a Digital Employee Operating Layer: Architecture, Gaps, and Practical Pathways",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "OpenClaw",
+        "abstract": "This report repositions OpenClaw from a personal assistant gateway to a lightweight operating layer for digital employees. It analyzes core architecture and execution capabilities (multi-channel ingress, tool invocation, event-driven workflows, cron scheduling, and skill distribution), evaluates key gaps against enterprise-grade control-plane requirements (identity, governance, observability, and orchestration), and proposes a self-hosted, execution-first pathway grounded in practical scenarios such as social monitoring, patent workflows, and in-depth research delivery.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw and Digital Employee Research Report (English).pdf"
+    },
+    {
+        "id": "token-economics-panorama-report-english-edition-ai-agent-2026-03",
+        "title": "Token Economics Panorama Report (English Edition)",
+        "version": "1.0",
+        "date": "2026-03",
+        "category": "AI Agent",
+        "abstract": "This report presents a panoramic analysis of token economics in the AI era, spanning global compute infrastructure, inference economics, China’s compute industry, labor-market and organizational transformation, capital-market logic, and geopolitical implications. It highlights key trends such as sharply falling inference costs alongside rising total spending, increasing K-shaped polarization, and the growing coupling between compute power and energy systems.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AI+Agent+1.0",
+        "pdfUrl": "./AI Agent/0319 Token Economics Panorama Report (English).pdf"
+    },
+    {
+        "id": "openclaw-shrimp-farming-panorama-report-english-edition-openclaw",
+        "title": "OpenClaw Shrimp Farming Panorama Report (English Edition)",
+        "version": "1.0",
+        "date": "2026",
+        "category": "OpenClaw",
+        "abstract": "This report provides a panoramic analysis of OpenClaw-enabled shrimp farming, covering industry context, technology stack, operational workflows, key challenges, and practical implementation pathways for scalable and data-driven aquaculture.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=OpenClaw+1.0",
+        "pdfUrl": "./OpenClaw/OpenClaw Shrimp Farming Panorama Report (English).pdf"
+    },
+    {
+        "id": "ai-short-drama-development-report-english-aigc-2026",
+        "title": "AI Short Drama Development Report (English)",
+        "version": "1.0",
+        "date": "2026",
+        "category": "AIGC发展",
+        "abstract": "This report examines the current landscape of AI short drama, maps the end-to-end industry chain, and analyzes production, distribution, and monetization pathways, highlighting key challenges and practical opportunities for deployment.",
+        "coverUrl": "https://placehold.co/800x600/660874/FFFFFF/png?text=AIGC%E5%8F%91%E5%B1%95+1.0",
+        "pdfUrl": "./AIGC发展/AI Short Drama Development Report (English).pdf"
+    },
+    {
         "id": "global-general-purpose-agent-competition-report-2026-ai-agent-20",
         "title": "Global General-Purpose Agent Competition Report 2026",
         "version": "1.0",
